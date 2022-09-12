@@ -1,0 +1,92 @@
+<data>
+	<shop>Nimpha</shop>
+	<phone>
+		<price>42799</price>
+		<name>iPhone 13 Pro</name>
+		<brand>Apple</brand>
+		<system>iOS 15</system>
+		<ram>6</ram>
+		<memory>128</memory>
+		<processor>Apple A15 Bionic</processor>
+		<cores>6</cores>
+		<diagonal>6.1</diagonal>
+	</phone>
+
+	<phone>
+		<price>25900</price>
+		<name>Pixel 6</name>
+		<brand>Google</brand>
+		<system>Android 12</system>
+		<ram>8</ram>
+		<memory>128</memory>
+		<processor>Google Tensor</processor>
+		<cores>8</cores>
+		<diagonal>6.4</diagonal>
+	</phone>
+	<phone>
+		<price>19178</price>
+		<name>Galaxy S20</name>
+		<brand>Samsung</brand>
+		<system>Android 10</system>
+		<ram>6</ram>
+		<memory>128</memory>
+		<processor>Samsung Exynos 990</processor>
+		<cores>8</cores>
+		<diagonal>6.5</diagonal>
+	</phone>
+	<phone>
+		<price>21500</price>
+		<name>9RT</name>
+		<brand>OnePlus</brand>
+		<system>Android 11</system>
+		<ram>12</ram>
+		<memory>256</memory>
+		<processor>Qualcomm Snapdragon 888</processor>
+		<cores>8</cores>
+		<diagonal>6.62</diagonal>
+	</phone>
+	<phone>
+		<price>8400</price>
+		<name>Moto G41</name>
+		<brand>Motorola</brand>
+		<system>Android 11</system>
+		<ram>6</ram>
+		<memory>128</memory>
+		<processor>MediaTek Helio G85</processor>
+		<cores>8</cores>
+		<diagonal>6.4</diagonal>
+	</phone>
+	<phone>
+		<price>10800</price>
+		<name>Reno5 Lite</name>
+		<brand>OPPO</brand>
+		<system>Android 11</system>
+		<ram>8</ram>
+		<memory>128</memory>
+		<processor>MediaTek MT6779V Helio P95 + PowerVR GM9446</processor>
+		<cores>8</cores>
+		<diagonal>6.43</diagonal>
+	</phone>
+	<phone>
+		<price>47200</price>
+		<name>Xperia Pro-I</name>
+		<brand>Sony</brand>
+		<system>Android 11</system>
+		<ram>12</ram>
+		<memory>256</memory>
+		<processor>Qualcomm Snapdragon 888</processor>
+		<cores>8</cores>
+		<diagonal>6.5</diagonal>
+	</phone>
+	<phone>
+		<price>4000</price>
+		<name>Galaxy A03 Core</name>
+		<brand>Samsung</brand>
+		<system>Android 11</system>
+		<ram>2</ram>
+		<memory>32</memory>
+		<processor>Unisoc SC9863A + PowerVR GE8322</processor>
+		<cores>8</cores>
+		<diagonal>6.5</diagonal>
+	</phone>
+</data>

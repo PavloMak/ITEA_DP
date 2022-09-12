@@ -1,0 +1,69 @@
+<data>
+	<shop>SMARTFON</shop>
+	<phone>
+		<price>4000</price>
+		<name>Redmi 9A</name>
+		<brand>Xiaomi</brand>
+		<system>Android 10</system>
+		<ram>2</ram>
+		<memory>32</memory>
+		<processor>MediaTek Helio G25 + PowerVR8320</processor>
+		<cores>8</cores>
+		<diagonal>6.53</diagonal>
+	</phone>
+	<phone>
+		<price>28000</price>
+		<name>Pixel 6</name>
+		<brand>Google</brand>
+		<system>Android 12</system>
+		<ram>8</ram>
+		<memory>128</memory>
+		<processor>Google Tensor</processor>
+		<cores>8</cores>
+		<diagonal>6.4</diagonal>
+	</phone>
+	<phone>
+		<price>23500</price>
+		<name>iPhone XR</name>
+		<brand>Apple</brand>
+		<system>iOS</system>
+		<ram>3</ram>
+		<memory>128</memory>
+		<processor>Apple A12 Bionic</processor>
+		<cores>6</cores>
+		<diagonal>6.1</diagonal>
+	</phone>
+	<phone>
+		<price>31600</price>
+		<name>9RT</name>
+		<brand>OnePlus</brand>
+		<system>Android 11</system>
+		<ram>12</ram>
+		<memory>256</memory>
+		<processor>Qualcomm Snapdragon 888</processor>
+		<cores>8</cores>
+		<diagonal>6.62</diagonal>
+	</phone>
+	<phone>
+		<price>26200</price>
+		<name>Edge 30 Pro</name>
+		<brand>Motorola</brand>
+		<system>Android 12</system>
+		<ram>12</ram>
+		<memory>256</memory>
+		<processor>Qualcomm Snapdragon 8 Gen 1</processor>
+		<cores>8</cores>
+		<diagonal>6.7</diagonal>
+	</phone>
+	<phone>
+		<price>47800</price>
+		<name>Xperia Pro-I</name>
+		<brand>Sony</brand>
+		<system>Android 11</system>
+		<ram>12</ram>
+		<memory>256</memory>
+		<processor>Qualcomm Snapdragon 888</processor>
+		<cores>8</cores>
+		<diagonal>6.5</diagonal>
+	</phone>
+</data>
